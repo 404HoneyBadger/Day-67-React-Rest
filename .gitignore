@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## WHATEVER THE FUCK THIS IS SUPPOSED TO BE ##
+node_modules
+src/main/JS/node_modules
